@@ -1,2 +1,2 @@
-# Arrows pack
+# Potion pouch pack
 Adds potion pouch
