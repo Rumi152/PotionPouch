@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "potion-pouch-craft:potion-pouch-recipe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "potion-pouch-craft:potion-pouch-func"
+    }
+}
